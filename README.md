@@ -1,5 +1,7 @@
 # This is my WH-1000XM4 Project
 
+### About my project
+
 ### Members of the Devolpment Team
 - Ethan Cui
 - Aaryan Sandhu
