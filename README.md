@@ -12,6 +12,7 @@
   * Reason for picking the colours of the Home Page:
     We used these colours because it matches the colours of the flagship colour way of the product.
 * Layout
+  * The reason for using this layout of the home page: We chose this layout because it looked clean and neat. 
 * Font Styles
 * Media
 
