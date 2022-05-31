@@ -16,4 +16,4 @@
 * Font Styles
 * Media
 
-<a herf="task"><image src="/?raw=true" title+"The Task" width=950>
+<a herf="task"><image src="https://github.com/EthanCui89721/wh-1000xm4/blob/main/images/headphone_1.png/?raw=true" title+"The Task" width=950>
