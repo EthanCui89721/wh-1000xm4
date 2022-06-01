@@ -1,3 +1,7 @@
+_ _ _
+Ethan Cui: Design and Develop a Digital Media Outcome
+---
+
 # This is my WH-1000XM4 Project
 
 ### About my project
