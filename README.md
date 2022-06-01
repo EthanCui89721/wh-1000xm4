@@ -13,8 +13,8 @@ Ethan Cui: Design and Develop a Digital Media Outcome
 
 ### The Desgin
 * Colour
-  * Reason for picking the colours of the Home Page:
-    We used these colours because it matches the colours of the flagship colour way of the product.
+  * I've used colours of the range of Sony headphones
+  * The web app that I used to analyse the colours of the photographs in my site is [colorexploer.com]
 * Layout
   * The reason for using this layout of the home page: We chose this layout because it looked clean and neat. 
 * Font Styles
