@@ -1,4 +1,4 @@
-_ _ _
+---
 Ethan Cui: Design and Develop a Digital Media Outcome
 ---
 
